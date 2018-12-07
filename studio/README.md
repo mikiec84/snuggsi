@@ -13,6 +13,7 @@ A studio Session
   How to setup studio
 
   - [ ] Calibrate machines
+  - [ ] 
 
 
 ## Teardown
